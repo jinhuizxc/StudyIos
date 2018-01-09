@@ -15,6 +15,8 @@ int main(int argc, char * argv[]) {
          NSLog(@"学习下log");
          NSLog(@"创建dev分支");
          NSLog(@"创建dev2分支");
+         NSLog(@"修改master便于测试单个分枝");
+
         
     }
     return 0;
