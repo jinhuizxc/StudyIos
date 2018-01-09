@@ -14,6 +14,8 @@ int main(int argc, char * argv[]) {
 //        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
          NSLog(@"学习下log");
          NSLog(@"创建dev分支");
+        NSLog(@"创建dev2分支");
+        
     }
     return 0;
 }
